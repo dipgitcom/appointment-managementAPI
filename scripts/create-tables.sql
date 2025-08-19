@@ -21,6 +21,6 @@ CREATE TABLE IF NOT EXISTS appointments (
 
 -- Insert sample patients
 INSERT OR IGNORE INTO patients (name, email, phone) VALUES 
-('John Doe', 'john@example.com', '555-0101'),
-('Jane Smith', 'jane@example.com', '555-0102'),
-('Bob Johnson', 'bob@example.com', '555-0103');
+('Dipraj Dhar', 'dip@example.com', '555-0101'),
+('Rajib Dhar', 'rajib@example.com', '555-0102'),
+('Ankit Dhar', 'ankit@example.com', '555-0103');
