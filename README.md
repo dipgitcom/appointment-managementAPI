@@ -15,23 +15,23 @@ A RESTful API for managing patient appointments built with Node.js, Express, and
 ## Quick Start
 
 ### 1. Install Dependencies
-\`\`\`bash
+
 npm install
-\`\`\`
+
 
 ### 2. Initialize Database
-\`\`\`bash
+
 npm run init-db
-\`\`\`
+
 
 ### 3. Start the Server
-\`\`\`bash
+
 # Development mode with auto-reload
 npm run dev
 
 # Production mode
 npm start
-\`\`\`
+
 
 The API will be running at `http://localhost:3000`
 
