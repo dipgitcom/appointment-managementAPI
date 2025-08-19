@@ -101,9 +101,9 @@ GET /api/appointments/101
 ## Sample Patients
 
 The database comes pre-loaded with sample patients:
-1. John Doe (ID: 1)
-2. Jane Smith (ID: 2)
-3. Bob Johnson (ID: 3)
+1. Dipraj Dhar (ID: 1)
+2. Rajib Dhar (ID: 2)
+3. Ankit Dhar (ID: 3)
 
 ## Testing the API
 
